@@ -1,2 +1,2 @@
-# Virat-Kohli
-:  👑 The Ultimate Virat Kohli Analytics &amp; Tribute Hub — An immersive, deep-dive repository capturing the records, legendary milestones, chase statistics, and unparalleled legacy of modern cricket's greatest icon. Crafted with precision, driven by data.
+Calculator Recharge 
+The system shall automatically calculate the expiry date based on the provided start date and validity duration (days, months, or years). The calculated expiry date will be displayed and stored for future reference.
